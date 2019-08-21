@@ -1,0 +1,8 @@
+For DB backup:
+python manage.py dbbackup
+For restore:
+python manage.py dbrestore
+
+For files backup
+python  manage.py mediabackup
+
