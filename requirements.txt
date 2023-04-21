@@ -7,4 +7,4 @@ pinax-documents==1.0.2
 pinax-theme-bootstrap==8.0.1
 pytz==2019.2
 six==1.12.0
-sqlparse==0.3.0
+sqlparse==0.4.4
